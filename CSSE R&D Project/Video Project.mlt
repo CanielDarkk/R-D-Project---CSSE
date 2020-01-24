@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mlt LC_NUMERIC="C" version="6.19.0" title="Shotcut version 19.12.31" producer="main_bin">
+  <profile description="HD 1080p 25 fps" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" title="Anonymous Submission" in="00:00:00.000" out="00:07:44.000">
+    <property name="length">11601</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/danielclark/Daniel Clark/Arduino/ArduinoTrainingLabs/Video Project/Video/Shotcut Video Project.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-01-13T19:17:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f726ea78e3077ad023100dcb1579ca3b</property>
+  </producer>
+  <playlist id="main_bin" title="Shotcut version 19.10.20">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:07:44.000"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:06:04.960">
+    <property name="length">00:06:05.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/danielclark/Daniel Clark/Arduino/ArduinoTrainingLabs/Video Project/ShotCut/Video Project/0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:06:04.960"/>
+  </playlist>
+  <producer id="producer1" title="Anonymous Submission" in="00:00:00.000" out="00:07:44.000">
+    <property name="length">11601</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/danielclark/Daniel Clark/Arduino/ArduinoTrainingLabs/Video Project/Video/Shotcut Video Project.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-01-13T19:17:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f726ea78e3077ad023100dcb1579ca3b</property>
+    <property name="shotcut:caption">Shotcut Video Project.mp4</property>
+  </producer>
+  <producer id="producer2" title="Anonymous Submission" in="00:00:00.000" out="00:07:44.000">
+    <property name="length">11601</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/danielclark/Daniel Clark/Arduino/ArduinoTrainingLabs/Video Project/Video/Shotcut Video Project.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-01-13T19:17:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f726ea78e3077ad023100dcb1579ca3b</property>
+    <property name="shotcut:caption">Shotcut Video Project.mp4</property>
+  </producer>
+  <producer id="producer3" title="Anonymous Submission" in="00:00:00.000" out="00:07:44.000">
+    <property name="length">11601</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/danielclark/Daniel Clark/Arduino/ArduinoTrainingLabs/Video Project/Video/Shotcut Video Project.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-01-13T19:17:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f726ea78e3077ad023100dcb1579ca3b</property>
+    <property name="shotcut:caption">Shotcut Video Project.mp4</property>
+  </producer>
+  <producer id="producer4" title="Anonymous Submission" in="00:00:00.000" out="00:07:44.000">
+    <property name="length">11601</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/danielclark/Daniel Clark/Arduino/ArduinoTrainingLabs/Video Project/Video/Shotcut Video Project.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-01-13T19:17:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f726ea78e3077ad023100dcb1579ca3b</property>
+    <property name="shotcut:caption">Shotcut Video Project.mp4</property>
+  </producer>
+  <producer id="producer5" title="Anonymous Submission" in="00:00:00.000" out="00:07:44.000">
+    <property name="length">11601</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/danielclark/Daniel Clark/Arduino/ArduinoTrainingLabs/Video Project/Video/Shotcut Video Project.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-01-13T19:17:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f726ea78e3077ad023100dcb1579ca3b</property>
+    <property name="shotcut:caption">Shotcut Video Project.mp4</property>
+  </producer>
+  <producer id="producer6" title="Anonymous Submission" in="00:00:00.000" out="00:07:44.000">
+    <property name="length">11601</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/danielclark/Daniel Clark/Arduino/ArduinoTrainingLabs/Video Project/Video/Shotcut Video Project.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-01-13T19:17:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f726ea78e3077ad023100dcb1579ca3b</property>
+    <property name="shotcut:caption">Shotcut Video Project.mp4</property>
+  </producer>
+  <producer id="producer7" title="Anonymous Submission" in="00:00:00.000" out="00:07:44.000">
+    <property name="length">11601</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/danielclark/Daniel Clark/Arduino/ArduinoTrainingLabs/Video Project/Video/Shotcut Video Project.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-01-13T19:17:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f726ea78e3077ad023100dcb1579ca3b</property>
+    <property name="shotcut:caption">Shotcut Video Project.mp4</property>
+  </producer>
+  <producer id="producer8" title="Anonymous Submission" in="00:00:00.000" out="00:07:44.000">
+    <property name="length">11601</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/danielclark/Daniel Clark/Arduino/ArduinoTrainingLabs/Video Project/Video/Shotcut Video Project.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-01-13T19:17:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f726ea78e3077ad023100dcb1579ca3b</property>
+    <property name="shotcut:caption">Shotcut Video Project.mp4</property>
+  </producer>
+  <producer id="producer9" title="Anonymous Submission" in="00:00:00.000" out="00:07:44.000">
+    <property name="length">11601</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/danielclark/Daniel Clark/Arduino/ArduinoTrainingLabs/Video Project/Video/Shotcut Video Project.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-01-13T19:17:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f726ea78e3077ad023100dcb1579ca3b</property>
+    <property name="shotcut:caption">Shotcut Video Project.mp4</property>
+  </producer>
+  <producer id="producer10" title="Anonymous Submission" in="00:00:00.000" out="00:07:44.000">
+    <property name="length">11601</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/danielclark/Daniel Clark/Arduino/ArduinoTrainingLabs/Video Project/Video/Shotcut Video Project.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-01-13T19:17:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f726ea78e3077ad023100dcb1579ca3b</property>
+    <property name="shotcut:caption">Shotcut Video Project.mp4</property>
+  </producer>
+  <producer id="producer11" title="Anonymous Submission" in="00:00:00.000" out="00:07:44.000">
+    <property name="length">11601</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/danielclark/Daniel Clark/Arduino/ArduinoTrainingLabs/Video Project/Video/Shotcut Video Project.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-01-13T19:17:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f726ea78e3077ad023100dcb1579ca3b</property>
+    <property name="shotcut:caption">Shotcut Video Project.mp4</property>
+  </producer>
+  <producer id="producer12" title="Anonymous Submission" in="00:00:00.000" out="00:07:44.000">
+    <property name="length">11601</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/danielclark/Daniel Clark/Arduino/ArduinoTrainingLabs/Video Project/Video/Shotcut Video Project.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-01-13T19:17:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f726ea78e3077ad023100dcb1579ca3b</property>
+    <property name="shotcut:caption">Shotcut Video Project.mp4</property>
+  </producer>
+  <producer id="producer13" title="Anonymous Submission" in="00:00:00.000" out="00:07:44.000">
+    <property name="length">11601</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/danielclark/Daniel Clark/Arduino/ArduinoTrainingLabs/Video Project/Video/Shotcut Video Project.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-01-13T19:17:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f726ea78e3077ad023100dcb1579ca3b</property>
+    <property name="shotcut:caption">Shotcut Video Project.mp4</property>
+  </producer>
+  <producer id="producer14" title="Anonymous Submission" in="00:00:00.000" out="00:07:44.000">
+    <property name="length">11601</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/danielclark/Daniel Clark/Arduino/ArduinoTrainingLabs/Video Project/Video/Shotcut Video Project.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-01-13T19:17:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f726ea78e3077ad023100dcb1579ca3b</property>
+    <property name="shotcut:caption">Shotcut Video Project.mp4</property>
+  </producer>
+  <producer id="producer15" title="Anonymous Submission" in="00:00:00.000" out="00:07:44.000">
+    <property name="length">11601</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/danielclark/Daniel Clark/Arduino/ArduinoTrainingLabs/Video Project/Video/Shotcut Video Project.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-01-13T19:17:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f726ea78e3077ad023100dcb1579ca3b</property>
+    <property name="shotcut:caption">Shotcut Video Project.mp4</property>
+    <filter id="filter0" in="00:03:50.760" out="00:04:05.360">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">6.8</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </producer>
+  <producer id="producer16" title="Anonymous Submission" in="00:00:00.000" out="00:07:44.000">
+    <property name="length">11601</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/danielclark/Daniel Clark/Arduino/ArduinoTrainingLabs/Video Project/Video/Shotcut Video Project.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-01-13T19:17:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f726ea78e3077ad023100dcb1579ca3b</property>
+    <property name="shotcut:caption">Shotcut Video Project.mp4</property>
+    <filter id="filter1" in="00:04:16.120" out="00:04:24.960">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">6.8</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </producer>
+  <producer id="producer17" title="Anonymous Submission" in="00:00:00.000" out="00:07:44.000">
+    <property name="length">11601</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/danielclark/Daniel Clark/Arduino/ArduinoTrainingLabs/Video Project/Video/Shotcut Video Project.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-01-13T19:17:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f726ea78e3077ad023100dcb1579ca3b</property>
+    <property name="shotcut:caption">Shotcut Video Project.mp4</property>
+    <filter id="filter2" in="00:04:31.800" out="00:04:38.720">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">6.8</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </producer>
+  <producer id="producer18" title="Anonymous Submission" in="00:00:00.000" out="00:07:44.000">
+    <property name="length">11601</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/danielclark/Daniel Clark/Arduino/ArduinoTrainingLabs/Video Project/Video/Shotcut Video Project.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-01-13T19:17:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f726ea78e3077ad023100dcb1579ca3b</property>
+    <property name="shotcut:caption">Shotcut Video Project.mp4</property>
+    <filter id="filter3" in="00:04:50.520" out="00:07:44.000">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">6.8</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer1" in="00:00:07.720" out="00:00:14.360"/>
+    <entry producer="producer2" in="00:00:17.600" out="00:00:25.120"/>
+    <entry producer="producer3" in="00:00:29.360" out="00:00:42.520"/>
+    <entry producer="producer4" in="00:00:47.360" out="00:00:53.680"/>
+    <entry producer="producer5" in="00:00:59.960" out="00:01:24.280"/>
+    <entry producer="producer6" in="00:01:27.760" out="00:01:28.320"/>
+    <entry producer="producer7" in="00:01:28.360" out="00:01:39.800"/>
+    <entry producer="producer8" in="00:01:47.000" out="00:02:09.880"/>
+    <entry producer="producer9" in="00:02:16.000" out="00:02:22.280"/>
+    <entry producer="producer10" in="00:02:27.400" out="00:02:32.840"/>
+    <entry producer="producer11" in="00:02:36.440" out="00:02:41.560"/>
+    <entry producer="producer12" in="00:02:43.720" out="00:02:46.800"/>
+    <entry producer="producer13" in="00:02:56.800" out="00:03:24.480"/>
+    <entry producer="producer14" in="00:03:30.720" out="00:03:50.720"/>
+    <entry producer="producer15" in="00:03:50.760" out="00:04:05.360"/>
+    <entry producer="producer16" in="00:04:16.120" out="00:04:24.960"/>
+    <entry producer="producer17" in="00:04:31.800" out="00:04:38.720"/>
+    <entry producer="producer18" in="00:04:50.520" out="00:07:44.000"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 19.12.31" global_feed="1" in="00:00:00.000" out="00:06:04.960">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="shotcut:scaleFactor">0.637073</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+  </tractor>
+</mlt>
